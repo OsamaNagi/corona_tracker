@@ -1,6 +1,6 @@
 {
 	"name": "corona_app",
-	"homepage": "https//OsamaNagi.github.io/corona_tracker",
+	"homepage": "https://OsamaNagi.github.io/corona_tracker",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
